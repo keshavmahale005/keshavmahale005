@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Everything About Me:
 I am an AWS DevOps Engineer at Sumago Infotech Pvt. Ltd., working on designing, automating, and managing cloud infrastructure and CI/CD pipelines using AWS, Terraform, Ansible, Docker, Jenkins, Git, and Kubernetes. I actively work on cloud automation, infrastructure as code, and scalable deployment strategies while also integrating AI-driven tools like Retell AI, n8n, and workflow automation to improve operational efficiency. I am continuously learning advanced AWS networking, Kubernetes production practices, LLM-based applications, and MLOps, and I enjoy collaborating on DevOps, cloud, and automation projects. I’m always open to discussing AWS, DevOps, CI/CD pipelines, infrastructure automation, and real-world cloud solutions.
 
 
